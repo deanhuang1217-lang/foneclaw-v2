@@ -1,0 +1,13 @@
+.foneclaw-apk-cta{background:rgba(255,255,255,.03);border:1px dashed #21262d;border-radius:10px;padding:16px;margin-bottom:16px;text-align:center}
+.foneclaw-apk-cta[data-variant="article"]{margin:28px 0;padding:20px;border-style:solid;border-color:rgba(0,212,255,.18);background:linear-gradient(180deg,rgba(0,212,255,.07),rgba(255,255,255,.03))}
+.foneclaw-apk-cta__title{margin:0 0 8px;color:#f0f4f8;font-family:'Space Grotesk','Inter',sans-serif;font-size:18px;font-weight:700;line-height:1.35}
+.foneclaw-apk-cta__copy{margin:0 0 14px;color:#8b949e;font-size:14px;line-height:1.6}
+.foneclaw-apk-cta__button{display:block;width:100%;padding:13px;background:rgba(0,212,255,.08);color:#00d4ff;border:1px solid rgba(0,212,255,.22);font-family:'Space Grotesk','Inter',sans-serif;font-weight:700;font-size:15px;border-radius:10px;text-decoration:none;text-align:center;cursor:not-allowed;opacity:.72;transition:all .2s}
+.foneclaw-apk-cta__button.is-loading{color:#8b949e;border-color:#21262d;background:rgba(255,255,255,.03)}
+.foneclaw-apk-cta__button.is-ready{cursor:pointer;opacity:1;background:linear-gradient(135deg,#00d4ff,#3fb950);color:#080c18;border-color:transparent;box-shadow:0 4px 16px rgba(0,212,255,.24)}
+.foneclaw-apk-cta__button.is-ready:hover{transform:translateY(-1px);box-shadow:0 7px 22px rgba(0,212,255,.3)}
+.foneclaw-apk-cta__button.is-disabled{cursor:not-allowed;opacity:1;color:#c9d1d9;border-color:rgba(0,212,255,.16);background:rgba(255,255,255,.055)}
+.foneclaw-apk-cta__meta{margin-top:9px;color:#6e7681;font-size:12px;line-height:1.5;min-height:18px}
+.foneclaw-apk-cta__fallback{margin-top:10px;color:#6e7681;font-size:12px;line-height:1.5}
+.foneclaw-apk-cta__fallback a{color:#00d4ff;text-decoration:none}
+.foneclaw-apk-cta__fallback a:hover{text-decoration:underline}

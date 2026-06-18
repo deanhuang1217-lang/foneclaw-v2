@@ -1,0 +1,34 @@
+# 生成的 HTML（由 build_multi.py 产出，不入 git）
+*.html
+
+# 构建缓存
+_build_cache.pkl
+__pycache__/
+*.pyc
+
+# 备份文件
+*.bak*
+batch_backups/
+
+# 发布包目录
+foneclaw-deploy/
+
+# 临时文件
+__qa_*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 上传临时目录
+upload_*/
+
+# 原始素材
+*_raw.txt
+*_raw.py
