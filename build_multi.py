@@ -862,7 +862,7 @@ privacy_body = """
 <p>We may update this privacy policy periodically. Significant changes will be communicated through the FoneClaw app and website. Continued use after changes constitutes acceptance of the updated policy.</p>
 
 <h2 id="contact-us"><a class="anchor" href="#contact-us">#</a>Contact Us</h2>
-<p>For privacy-related questions or concerns, contact us at feedback@foneclaw.ai. We respond to all privacy inquiries within 48 hours.</p>
+<p>For privacy-related questions or concerns, contact us at privacy@foneclaw.ai. We respond to all privacy inquiries within 48 hours.</p>
 </div>
 </div>
 """

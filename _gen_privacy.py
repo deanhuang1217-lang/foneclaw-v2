@@ -35,7 +35,7 @@ sections = [
     ('Children\'s Privacy', 'FoneClaw is not intended for children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us immediately and we will delete it.'),
     ('Your Rights', 'You have the right to: access all data FoneClaw stores about you (all stored locally on your device), delete all stored data through the app settings, opt out of cloud processing at any time, export your preferences and learning data. Since data is stored locally, you have full control over your information.'),
     ('Changes to This Policy', 'We may update this privacy policy from time to time. We will notify you of any changes through the FoneClaw app. Continued use of FoneClaw after changes constitutes acceptance of the updated policy.'),
-    ('Contact Us', 'If you have questions about this privacy policy or FoneClaw\'s data practices, please contact us through our community channels at foneclaw.ai/community or via email at feedback@foneclaw.ai.'),
+    ('Contact Us', 'If you have questions about this privacy policy or FoneClaw\'s data practices, please contact us through our community channels at foneclaw.ai/community or via email at privacy@foneclaw.ai.'),
 ]
 
 html.append('<div class="art-body">')
