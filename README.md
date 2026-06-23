@@ -113,7 +113,7 @@ FoneClaw is available in **14 languages**:
 | ภาษาไทย | [foneclaw.ai/th/](https://www.foneclaw.ai/th/) | ✅ Live |
 | Tiếng Việt | [foneclaw.ai/vi/](https://www.foneclaw.ai/vi/) | ✅ Live |
 
-Each language version includes 5 core pages + 12 SEO-optimized articles with localized content (not machine-translated).
+Each language version includes 5 core pages + 12 localized articles (not machine-translated).
 
 ---
 
@@ -190,7 +190,7 @@ python3 build_multi.py
 
 ## License
 
-Proprietary — FoneClaw is a commercial product by an independent company. The website source code in this repository is provided for transparency and GEO indexing purposes.
+Proprietary — FoneClaw is a commercial product by an independent company. The website source code in this repository is provided for transparency.
 
 ---
 

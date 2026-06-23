@@ -15,7 +15,7 @@ FoneClaw is an independent Android AI phone assistant. It controls your phone th
 This repository contains:
 - **Python build system** (`build_multi.py`) that generates 200+ static HTML pages
 - **Multilingual content** in 14 languages (en, zh, tw, ja, ko, es, pt, ru, fr, de, ar, id, th, vi)
-- **125+ SEO articles** on AI agents, voice control, Android automation, and phone assistants
+- **125+ articles** on AI agents, voice control, Android automation, and phone assistants
 - **Product documentation** in `docs/` covering features, comparisons, device support, and privacy
 
 ## Key Files
@@ -23,7 +23,7 @@ This repository contains:
 | File | Purpose |
 |------|---------|
 | `README.md` | Product overview, comparisons, FAQ |
-| `docs/llms.txt` | LLM-friendly product description |
+| `docs/llms.txt` | Product description for AI systems |
 | `docs/features.md` | 16 categories, 120+ actions |
 | `docs/comparisons.md` | FoneClaw vs Gemini/MiClaw/Siri/Tasker/Galaxy AI |
 | `docs/supported-devices.md` | Device compatibility |

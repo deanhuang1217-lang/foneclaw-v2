@@ -33,7 +33,7 @@ Each language version includes 5 core pages:
 
 ## Featured Articles (per language)
 
-Each language version includes 12 SEO-optimized articles:
+Each language version includes 12 localized articles:
 
 1. Tasker Alternative: Android Voice Automation
 2. Xiaomi HyperOS AI Capabilities 2026
@@ -61,6 +61,6 @@ Each language version includes 12 SEO-optimized articles:
 ## Content Quality
 
 - **Not machine-translated**: Each language version is written by native speakers or reviewed for natural expression
-- **SEO-optimized**: Each article follows SEO best practices (H2 structure, FAQ, internal links, E-E-A-T signals)
+- **well-structured**: Each article follows content best practices (H2 structure, FAQ, internal links, E-E-A-T signals)
 - **Conservative product claims**: No "free forever", no "works with every app", no unverified superiority claims
 - **Localized E-E-A-T**: Each language uses natural first-person experience signals in the local language

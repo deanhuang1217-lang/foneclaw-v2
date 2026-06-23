@@ -15,7 +15,7 @@
 
 ### Multilingual Support
 - 14 languages launched: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, Portuguese, Russian, French, German, Arabic, Indonesian, Thai, Vietnamese
-- Each language includes 5 core pages + 12 SEO-optimized articles
+- Each language includes 5 core pages + 12 localized articles
 - Localized content (not machine-translated)
 
 ### Platform
@@ -25,7 +25,7 @@
 
 ### Website
 - Full multilingual website at foneclaw.ai
-- 14 language versions with hreflang SEO
+- 14 language versions with hreflang tags
 - 125+ English articles, 12 featured articles per language
 - Responsive design, dark theme
 - APK download with version checking
