@@ -6,7 +6,7 @@ If you discover a security vulnerability in FoneClaw, please report it responsib
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: **hello@foneclaw.ai**
+Instead, please email: **feedback@foneclaw.ai**
 
 ### What to include
 
